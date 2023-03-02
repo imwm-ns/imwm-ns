@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer Student - Thammasat University.
 -------------------------------------------------
 
-I've been learning to be a software engineer for 2 years. I'm looking for work as a software engineer intern.
+I've been learning to be a software engineer for 2 years. I'm looking for work as a software engineer.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [superpumpkinpp@gmail.com](mailto:superpumpkinpp@gmail.com)
